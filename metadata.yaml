@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31834'
     url: http://www.gutenberg.org/2009/agents/31834
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33679#Seeds-of-Michigan-WeedsStation-Division-of-Botany-March-1910
 gutenberg_issued: '2010-09-09'
 gutenberg_type: Text
 identifiers:
