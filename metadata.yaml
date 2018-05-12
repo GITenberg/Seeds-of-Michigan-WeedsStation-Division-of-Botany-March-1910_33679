@@ -1,0 +1,29 @@
+_repo: Seeds-of-Michigan-WeedsStation-Division-of-Botany-March-1910_33679
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beal, W. J. (William James)
+    alias: Beal, William James
+    birthdate: 1833
+    deathdate: 1924
+    gutenberg_agent_id: '31834'
+    url: http://www.gutenberg.org/2009/agents/31834
+description: ''
+gutenberg_issued: '2010-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33679'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Weeds -- Michigan -- Identification'
+- !lcc 'SB'
+- !lcsh 'Weeds -- Seeds'
+title: "Seeds of Michigan Weeds\r\nBulletin 260, Michigan State Agricultural College\
+  \ Experiment Station, Division of Botany, March, 1910"
+url: http://www.gutenberg.org/ebooks/33679
